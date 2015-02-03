@@ -31,6 +31,31 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "ini/development.ini",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix",
+				"name": "[app:main]"
+			}
+		},
+		{
+			"file": "ini/tutorial/__init__.py",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "debugtoolbar/development.ini",
+			"settings":
+			{
+				"buffer_size": 139,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -56,6 +81,11 @@
 	},
 	"file_history":
 	[
+		"/Users/administrador/Projects/quick_tutorial/ini/tutorial/app.py",
+		"/Users/administrador/Projects/quick_tutorial/ini/setup.py",
+		"/Users/administrador/Projects/quick_tutorial/package/tutorial/app.py",
+		"/Users/administrador/Projects/quick_tutorial/package/setup.py",
+		"/Users/administrador/Projects/quick_tutorial/package/tutorial/__init__.py",
 		"/Users/administrador/Projects/angular-phonecat/app/js/filters.js",
 		"/Users/administrador/Projects/angular-phonecat/test/unit/filtersSpec.js",
 		"/Users/administrador/Projects/angular-phonecat/test/unit/controllersSpec.js",
@@ -108,8 +138,88 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "ini/development.ini",
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[app:main]",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ini/tutorial/__init__.py",
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "debugtoolbar/development.ini",
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
